@@ -25,4 +25,4 @@ classDiagram
 
     profesor --> clase : dicta
     alumno --> clase : pertenece a
-    curso --> alumno : administra
+    
