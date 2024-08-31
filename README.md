@@ -12,9 +12,9 @@ Calendario
 | Martes     |  Febrero |
 | Miércoles  |  Marzo   |
 |Jueves      |  Abril   |
-|Jueves      |  Mayo    |
-|Jueves      |  Junio   |
-|Sabado      |  Julio   |
-|Domingo     |  Agosto  |
-|-----------------------|
+|Viernes     |  Mayo    |
+|Sabado      |  Junio   |
+|Domingo     |  Julio   |
+  
+
 
