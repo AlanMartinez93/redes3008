@@ -5,14 +5,14 @@ RedesUrquiza
 
 Calendario
 -----------------
-*Dias*
- *Lunes
- *Martes
- *Miércoles
- *Jueves
- *Sabado
- *Domingo
-*Meses*
+|Dias        | *Meses*|
+| Lunes      |
+| Martes     |
+| Miércoles  |
+|Jueves      |
+|Sabado      |
+|Domingo     |
+
  *Enero
  *Febrero
  *Marzo
