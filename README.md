@@ -5,23 +5,15 @@ RedesUrquiza
 
 Calendario
 -----------------
-|Dias        | *Meses*|
-| Lunes      |
-| Martes     |
-| Miércoles  |
-|Jueves      |
-|Sabado      |
-|Domingo     |
+|Dias        | |*Meses* |
+|------------|----------|
+| Lunes      |  Enero   |
+| Martes     |  Febrero |
+| Miércoles  |  Marzo   |
+|Jueves      |  Abril   |
+|Jueves      |  Mayo    |
+|Jueves      |  Junio   |
+|Sabado      |  Julio   |
+|Domingo     |  Agosto  |
 
- *Enero
- *Febrero
- *Marzo
- *Abril
- *Mayo
- *Junio
- *Julio
- *Agosto
- *Septiembre
- *Octubre
- *Noviembr
- *Diciembre
+
