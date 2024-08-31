@@ -1,6 +1,6 @@
 ```mermaid
 classDiagram
-    class profesores {
+    class profesor {
         +String titulo
         +String autores
         +String isbn
