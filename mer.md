@@ -31,5 +31,5 @@ classDiagram
 
     profesor --> clase : dicta
     alumno --> curso : pertenece a
-    curso --> clase : en la
+    clase --> curso : en la
     
