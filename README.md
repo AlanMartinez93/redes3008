@@ -5,8 +5,8 @@ RedesUrquiza
 
 Calendario
 -----------------
-------------------------
-|Dias        | |*Meses* |
+
+| Dias       | Meses |
 |------------|----------|
 | Lunes      |  Enero   |
 | Martes     |  Febrero |
