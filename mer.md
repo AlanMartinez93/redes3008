@@ -13,6 +13,12 @@ classDiagram
         +borrowBook(Book book)
         +returnBook(Book book)
     }
+ class clase {
+        +String name
+        +String memberId
+        +borrowBook(Book book)
+        +returnBook(Book book)
+    }
 
     class curso {
         +String name
