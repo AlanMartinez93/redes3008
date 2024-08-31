@@ -1,35 +1,28 @@
 ```mermaid
 classDiagram
-    class Libro {
+    class profesores {
         +String titulo
         +String autores
         +String isbn
         +boolean isAvailable()
     }
 
-    class Member {
+    class alumno {
         +String name
         +String memberId
         +borrowBook(Book book)
         +returnBook(Book book)
     }
 
-    class Librarian {
+    class curso {
         +String name
         +String employeeId
         +addBook(Book book)
         +removeBook(Book book)
     }
 
-    class Library {
-        +String name
-        +List<Book> books
-        +List<Member> members
-        +List<Librarian> librarians
-        +addMember(Member member)
-        +removeMember(Member member)
-    }
 
-    Libro --> Library : contiene
-    Member --> Library : registra
-    Librarian --> Library : administra
+
+    profesor --> clase : dicta
+    alumno --> clase : pertenece a
+    curso --> alumno : administra
