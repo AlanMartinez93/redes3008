@@ -5,6 +5,7 @@ RedesUrquiza
 
 Calendario
 -----------------
+------------------------
 |Dias        | |*Meses* |
 |------------|----------|
 | Lunes      |  Enero   |
@@ -15,5 +16,5 @@ Calendario
 |Jueves      |  Junio   |
 |Sabado      |  Julio   |
 |Domingo     |  Agosto  |
-
+|-----------------------|
 
